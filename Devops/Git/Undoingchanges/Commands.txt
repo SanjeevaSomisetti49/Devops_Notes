@@ -1,0 +1,10 @@
+git config --edit
+git rm --cached filename
+git remote rm origin
+git checkout filename
+git checkout .
+git reset filename
+git reset --soft
+git reset --hard commitid
+git revert -m commitid
+git revert filename

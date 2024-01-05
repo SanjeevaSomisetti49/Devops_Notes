@@ -1,0 +1,16 @@
+mkdir directoryname
+cd directoryname
+cd ..
+touch filename
+pwd
+ls
+rmdir
+rm
+cat
+echo
+man
+whoami
+clear
+history
+rm -r directoryname
+mkdir -p dir1/dir2
